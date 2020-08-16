@@ -2,6 +2,7 @@
 -----------------------------------------------------------
 
 local S=technic.getter
+local ethereal = ethereal or {}
 
 -- DIRT
 -------
